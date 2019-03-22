@@ -1,0 +1,24 @@
+{
+  "home": {
+    "slider": [
+      {
+        "id": "1",
+        "cover": "https://commons.wikimedia.org/wiki/File:Alex_Ovechkin_2018-05-21.jpg",
+        "topic": "Alex Ovechkin",
+        "title": "Top player of the week"
+      },
+      {
+        "id": "2",
+        "cover": "https://commons.wikimedia.org/wiki/File:Washington_Capitals_(3485361394).jpg",
+        "topic": "Washington Capitals",
+        "title": "Another win"
+      },
+      {
+        "id": "3",
+        "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Jason_Zucker_at_Minnesota_Wild_open_practice_at_Tria_Rink_in_St_Paul%2C_MN_-_46792545921.jpg",
+        "topic": "NHL RECORDS",
+        "title": "Best games in history"
+      }
+    ]
+  }
+}
