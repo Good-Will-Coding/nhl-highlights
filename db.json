@@ -3,21 +3,65 @@
     "slider": [
       {
         "id": "1",
-        "cover": "https://commons.wikimedia.org/wiki/File:Alex_Ovechkin_2018-05-21.jpg",
+        "cover": "cover1.jpg",
         "topic": "Alex Ovechkin",
         "title": "Top player of the week"
       },
       {
         "id": "2",
-        "cover": "https://commons.wikimedia.org/wiki/File:Washington_Capitals_(3485361394).jpg",
+        "cover": "cover2.jpg",
         "topic": "Washington Capitals",
         "title": "Another win"
       },
       {
         "id": "3",
-        "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Jason_Zucker_at_Minnesota_Wild_open_practice_at_Tria_Rink_in_St_Paul%2C_MN_-_46792545921.jpg",
+        "cover": "cover3.jpg",
         "topic": "NHL RECORDS",
         "title": "Best games in history"
+      }
+    ],
+    "blocks": [
+      {
+        "id": "p1",
+        "type": "lg",
+        "image": "1.jpg",
+        "title": "Penguins Highlights",
+        "link": "/highlights"
+      },
+      {
+        "id": "p2",
+        "type": "md",
+        "image": "2.jpg",
+        "title": "Scorer of the week",
+        "link": "/scorers"
+      },
+      {
+        "id": "p3",
+        "type": "sm",
+        "image": "3.jpg",
+        "title": "Goalie of the week",
+        "link": "/goalie"
+      },
+      {
+        "id": "p4",
+        "type": "sm",
+        "image": "4.jpg",
+        "title": "Update on new training technique",
+        "link": "/training"
+      },
+      {
+        "id": "p5",
+        "type": "md",
+        "image": "5.jpg",
+        "title": "Minnesota Wild at it again",
+        "link": "/minnesotawild"
+      },
+      {
+        "id": "p6",
+        "type": "lg",
+        "image": "6.jpg",
+        "title": "San Jose to the win",
+        "link": "/matches"
       }
     ]
   }
