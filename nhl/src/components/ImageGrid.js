@@ -3,13 +3,12 @@ import Slide from "react-reveal/Slide";
 import { Link } from "react-router-dom";
 
 function ImageGrid({ images }) {
-  console.log(images);
   const generateImages = allImages => {
     if (allImages) {
       return allImages.map(item => {
         return (
-            <Slide right>
-          <div key={item.id} className={`item ${item.type}`}>
+            <Slide right key={item.id}>
+          <div className={`item ${item.type}`}>
               <div className="veil" />
               <div
                 className="image"

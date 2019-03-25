@@ -90,9 +90,9 @@
     {
       "id": 1,
       "name": "Minnesota Wild",
-      "logo": "minnesotawild.jpg",
+      "logo": "minnesotawild.png",
       "poll": "true",
-      "count": 0,
+      "count": 9,
       "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
       "squad": [
         {
@@ -449,83 +449,10 @@
     },
     {
       "id": 2,
-      "name": "Celtics",
-      "logo": "celtics.png",
-      "poll": "false",
-      "count": 0,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "squad": [
-        {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
-        }
-      ]
-    },
-    {
-      "id": 2,
       "name": "San Jose Sharks",
-      "logo": "sanjosesharks.jpg",
+      "logo": "sanjosesharks.png",
       "poll": "true",
-      "count": 0,
+      "count": 2,
       "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
       "squad": [
         {
@@ -870,9 +797,9 @@
     {
       "id": 3,
       "name": "Edmonton Oilers",
-      "logo": "oilers.jpg",
+      "logo": "oilers.png",
       "poll": "true",
-      "count": 0,
+      "count": 23,
       "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
       "squad": [
         {

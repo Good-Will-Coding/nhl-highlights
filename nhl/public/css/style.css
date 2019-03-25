@@ -222,3 +222,10 @@ footer {
   -moz-animation-delay: 800ms;
   -webkit-animation-delay: 800ms;
 }
+
+
+/* Poll  */
+
+.poll_item img {
+    width: 20%;
+}
