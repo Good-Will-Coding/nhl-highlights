@@ -68,7 +68,7 @@ const Poll = () => {
     <div className="home_poll">
       <h3>Who will be the next champion?</h3>
       <h5>{votedAlert ? `Thanks for voting!` : null}</h5>
-      <div className="poll-container">{renderPoll()}</div>
+      <div className="poll_container">{renderPoll()}</div>
     </div>
   );
 };
