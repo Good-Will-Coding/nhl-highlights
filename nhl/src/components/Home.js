@@ -1,0 +1,31 @@
+import React, { useState, useEffect } from "react";
+import Featured from "./Featured";
+import Subscriptions from './Subscriptions';
+import ImageGrid from './ImageGrid';
+import axios from "axios";
+const URL_HOME = "http://localhost:3004/home";
+
+function Home() {
+  const [home, setHome] = useState("");
+
+  useEffect(() => {
+    axios
+      .get(URL_HOME)
+      .then(res => {
+        setHome(res.data);
+      })
+      .catch(err => {
+        console.log(err);
+      });
+  }, []);
+
+  return (
+    <div>
+      <Featured slides={home.slider} />
+      <Subscriptions />
+      <ImageGrid images={home.blocks} />
+    </div>
+  );
+}
+
+export default Home;
