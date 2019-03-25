@@ -67,117 +67,383 @@
     "poll": [
       {
         "id": "p1",
-        "team": "Golden State",
+        "team": "Edmonton Oilers",
         "thumg": "ss",
         "count": 2543
       },
       {
         "id": "p1",
-        "team": "Cavaliers",
+        "team": "Minnesota Wild",
         "thumg": "ss",
         "count": 2544
       },
       {
         "id": "p1",
-        "team": "New york",
+        "team": "San Jose Sharks",
         "thumg": "ss",
         "count": 2
       }
     ]
   },
-  "subcriptions": [
-    {
-      "email": "baconsandwich@gmail.com",
-      "id": 1
-    },
-    {
-      "email": "email@gmail.com",
-      "id": 2
-    },
-    {
-      "email": "pickle@gmail.com",
-      "id": 3
-    },
-    {
-      "email": "f@gmail.com",
-      "id": 4
-    },
-    {
-      "email": "potato@cat.com",
-      "id": 5
-    }
-  ],
+  "subcriptions": [],
   "teams": [
     {
       "id": 1,
-      "name": "Hawks",
-      "logo": "hawks.png",
-      "poll": "false",
+      "name": "Minnesota Wild",
+      "logo": "minnesotawild.jpg",
+      "poll": "true",
       "count": 0,
       "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
       "squad": [
         {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
+          "person": {
+            "id": 8469459,
+            "fullName": "Mikko Koivu",
+            "link": "/api/v1/people/8469459"
+          },
+          "jerseyNumber": "9",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
         },
         {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
+          "person": {
+            "id": 8476856,
+            "fullName": "Matt Dumba",
+            "link": "/api/v1/people/8476856"
+          },
+          "jerseyNumber": "24",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
         },
         {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
+          "person": {
+            "id": 8470595,
+            "fullName": "Eric Staal",
+            "link": "/api/v1/people/8470595"
+          },
+          "jerseyNumber": "12",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
         },
         {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
+          "person": {
+            "id": 8470600,
+            "fullName": "Ryan Suter",
+            "link": "/api/v1/people/8470600"
+          },
+          "jerseyNumber": "20",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
         },
         {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
+          "person": {
+            "id": 8470610,
+            "fullName": "Zach Parise",
+            "link": "/api/v1/people/8470610"
+          },
+          "jerseyNumber": "11",
+          "position": {
+            "code": "L",
+            "name": "Left Wing",
+            "type": "Forward",
+            "abbreviation": "LW"
+          }
         },
         {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
+          "person": {
+            "id": 8470611,
+            "fullName": "Eric Fehr",
+            "link": "/api/v1/people/8470611"
+          },
+          "jerseyNumber": "21",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
         },
         {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
+          "person": {
+            "id": 8471227,
+            "fullName": "Devan Dubnyk",
+            "link": "/api/v1/people/8471227"
+          },
+          "jerseyNumber": "40",
+          "position": {
+            "code": "G",
+            "name": "Goalie",
+            "type": "Goalie",
+            "abbreviation": "G"
+          }
         },
         {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
+          "person": {
+            "id": 8471774,
+            "fullName": "Alex Stalock",
+            "link": "/api/v1/people/8471774"
+          },
+          "jerseyNumber": "32",
+          "position": {
+            "code": "G",
+            "name": "Goalie",
+            "type": "Goalie",
+            "abbreviation": "G"
+          }
         },
         {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
+          "person": {
+            "id": 8474688,
+            "fullName": "Greg Pateryn",
+            "link": "/api/v1/people/8474688"
+          },
+          "jerseyNumber": "29",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
+        },
+        {
+          "person": {
+            "id": 8474716,
+            "fullName": "Jared Spurgeon",
+            "link": "/api/v1/people/8474716"
+          },
+          "jerseyNumber": "46",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
+        },
+        {
+          "person": {
+            "id": 8475220,
+            "fullName": "Marcus Foligno",
+            "link": "/api/v1/people/8475220"
+          },
+          "jerseyNumber": "17",
+          "position": {
+            "code": "L",
+            "name": "Left Wing",
+            "type": "Forward",
+            "abbreviation": "LW"
+          }
+        },
+        {
+          "person": {
+            "id": 8475722,
+            "fullName": "Jason Zucker",
+            "link": "/api/v1/people/8475722"
+          },
+          "jerseyNumber": "16",
+          "position": {
+            "code": "L",
+            "name": "Left Wing",
+            "type": "Forward",
+            "abbreviation": "LW"
+          }
+        },
+        {
+          "person": {
+            "id": 8475868,
+            "fullName": "Anthony Bitetto",
+            "link": "/api/v1/people/8475868"
+          },
+          "jerseyNumber": "2",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
+        },
+        {
+          "person": {
+            "id": 8476372,
+            "fullName": "Nick Seeler",
+            "link": "/api/v1/people/8476372"
+          },
+          "jerseyNumber": "36",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
+        },
+        {
+          "person": {
+            "id": 8476437,
+            "fullName": "Victor Rask",
+            "link": "/api/v1/people/8476437"
+          },
+          "jerseyNumber": "49",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
+        },
+        {
+          "person": {
+            "id": 8476463,
+            "fullName": "Jonas Brodin",
+            "link": "/api/v1/people/8476463"
+          },
+          "jerseyNumber": "25",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
+        },
+        {
+          "person": {
+            "id": 8476779,
+            "fullName": "Brad Hunt",
+            "link": "/api/v1/people/8476779"
+          },
+          "jerseyNumber": "77",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
+        },
+        {
+          "person": {
+            "id": 8476806,
+            "fullName": "J.T. Brown",
+            "link": "/api/v1/people/8476806"
+          },
+          "jerseyNumber": "23",
+          "position": {
+            "code": "R",
+            "name": "Right Wing",
+            "type": "Forward",
+            "abbreviation": "RW"
+          }
+        },
+        {
+          "person": {
+            "id": 8476857,
+            "fullName": "Pontus Aberg",
+            "link": "/api/v1/people/8476857"
+          },
+          "jerseyNumber": "26",
+          "position": {
+            "code": "L",
+            "name": "Left Wing",
+            "type": "Forward",
+            "abbreviation": "LW"
+          }
+        },
+        {
+          "person": {
+            "id": 8477942,
+            "fullName": "Kevin Fiala",
+            "link": "/api/v1/people/8477942"
+          },
+          "jerseyNumber": "22",
+          "position": {
+            "code": "L",
+            "name": "Left Wing",
+            "type": "Forward",
+            "abbreviation": "LW"
+          }
+        },
+        {
+          "person": {
+            "id": 8477987,
+            "fullName": "Ryan Donato",
+            "link": "/api/v1/people/8477987"
+          },
+          "jerseyNumber": "6",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
+        },
+        {
+          "person": {
+            "id": 8478413,
+            "fullName": "Jordan Greenway",
+            "link": "/api/v1/people/8478413"
+          },
+          "jerseyNumber": "18",
+          "position": {
+            "code": "L",
+            "name": "Left Wing",
+            "type": "Forward",
+            "abbreviation": "LW"
+          }
+        },
+        {
+          "person": {
+            "id": 8478493,
+            "fullName": "Joel Eriksson Ek",
+            "link": "/api/v1/people/8478493"
+          },
+          "jerseyNumber": "14",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
+        },
+        {
+          "person": {
+            "id": 8479316,
+            "fullName": "Luke Kunin",
+            "link": "/api/v1/people/8479316"
+          },
+          "jerseyNumber": "19",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
+        },
+        {
+          "person": {
+            "id": 8481443,
+            "fullName": "Mat Robson",
+            "link": "/api/v1/people/8481443"
+          },
+          "jerseyNumber": "42",
+          "position": {
+            "code": "G",
+            "name": "Goalie",
+            "type": "Goalie",
+            "abbreviation": "G"
+          }
         }
       ]
     },
@@ -255,1975 +521,1087 @@
       ]
     },
     {
-      "id": 3,
-      "name": "Nets",
-      "logo": "nets.png",
-      "poll": "false",
+      "id": 2,
+      "name": "San Jose Sharks",
+      "logo": "sanjosesharks.jpg",
+      "poll": "true",
       "count": 0,
       "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
       "squad": [
         {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
+          "person": {
+            "id": 8466138,
+            "fullName": "Joe Thornton",
+            "link": "/api/v1/people/8466138"
+          },
+          "jerseyNumber": "19",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
         },
         {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
+          "person": {
+            "id": 8470613,
+            "fullName": "Brent Burns",
+            "link": "/api/v1/people/8470613"
+          },
+          "jerseyNumber": "88",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
         },
         {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
+          "person": {
+            "id": 8470794,
+            "fullName": "Joe Pavelski",
+            "link": "/api/v1/people/8470794"
+          },
+          "jerseyNumber": "8",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
         },
         {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
+          "person": {
+            "id": 8471709,
+            "fullName": "Marc-Edouard Vlasic",
+            "link": "/api/v1/people/8471709"
+          },
+          "jerseyNumber": "44",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
         },
         {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
+          "person": {
+            "id": 8474027,
+            "fullName": "Justin Braun",
+            "link": "/api/v1/people/8474027"
+          },
+          "jerseyNumber": "61",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
         },
         {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
+          "person": {
+            "id": 8474053,
+            "fullName": "Logan Couture",
+            "link": "/api/v1/people/8474053"
+          },
+          "jerseyNumber": "39",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
         },
         {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
+          "person": {
+            "id": 8474230,
+            "fullName": "Micheal Haley",
+            "link": "/api/v1/people/8474230"
+          },
+          "jerseyNumber": "18",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
         },
         {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
+          "person": {
+            "id": 8474578,
+            "fullName": "Erik Karlsson",
+            "link": "/api/v1/people/8474578"
+          },
+          "jerseyNumber": "65",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
         },
         {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
+          "person": {
+            "id": 8474679,
+            "fullName": "Gustav Nyquist",
+            "link": "/api/v1/people/8474679"
+          },
+          "jerseyNumber": "14",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
+        },
+        {
+          "person": {
+            "id": 8474889,
+            "fullName": "Martin Jones",
+            "link": "/api/v1/people/8474889"
+          },
+          "jerseyNumber": "31",
+          "position": {
+            "code": "G",
+            "name": "Goalie",
+            "type": "Goalie",
+            "abbreviation": "G"
+          }
+        },
+        {
+          "person": {
+            "id": 8475169,
+            "fullName": "Evander Kane",
+            "link": "/api/v1/people/8475169"
+          },
+          "jerseyNumber": "9",
+          "position": {
+            "code": "L",
+            "name": "Left Wing",
+            "type": "Forward",
+            "abbreviation": "LW"
+          }
+        },
+        {
+          "person": {
+            "id": 8475455,
+            "fullName": "Brenden Dillon",
+            "link": "/api/v1/people/8475455"
+          },
+          "jerseyNumber": "4",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
+        },
+        {
+          "person": {
+            "id": 8475820,
+            "fullName": "Joonas Donskoi",
+            "link": "/api/v1/people/8475820"
+          },
+          "jerseyNumber": "27",
+          "position": {
+            "code": "R",
+            "name": "Right Wing",
+            "type": "Forward",
+            "abbreviation": "RW"
+          }
+        },
+        {
+          "person": {
+            "id": 8475834,
+            "fullName": "Marcus Sorensen",
+            "link": "/api/v1/people/8475834"
+          },
+          "jerseyNumber": "20",
+          "position": {
+            "code": "L",
+            "name": "Left Wing",
+            "type": "Forward",
+            "abbreviation": "LW"
+          }
+        },
+        {
+          "person": {
+            "id": 8475841,
+            "fullName": "Tim Heed",
+            "link": "/api/v1/people/8475841"
+          },
+          "jerseyNumber": "72",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
+        },
+        {
+          "person": {
+            "id": 8476624,
+            "fullName": "Barclay Goodrow",
+            "link": "/api/v1/people/8476624"
+          },
+          "jerseyNumber": "23",
+          "position": {
+            "code": "R",
+            "name": "Right Wing",
+            "type": "Forward",
+            "abbreviation": "RW"
+          }
+        },
+        {
+          "person": {
+            "id": 8476881,
+            "fullName": "Tomas Hertl",
+            "link": "/api/v1/people/8476881"
+          },
+          "jerseyNumber": "48",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
+        },
+        {
+          "person": {
+            "id": 8477046,
+            "fullName": "Joakim Ryan",
+            "link": "/api/v1/people/8477046"
+          },
+          "jerseyNumber": "47",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
+        },
+        {
+          "person": {
+            "id": 8477180,
+            "fullName": "Aaron Dell",
+            "link": "/api/v1/people/8477180"
+          },
+          "jerseyNumber": "30",
+          "position": {
+            "code": "G",
+            "name": "Goalie",
+            "type": "Goalie",
+            "abbreviation": "G"
+          }
+        },
+        {
+          "person": {
+            "id": 8477922,
+            "fullName": "Melker Karlsson",
+            "link": "/api/v1/people/8477922"
+          },
+          "jerseyNumber": "68",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
+        },
+        {
+          "person": {
+            "id": 8478099,
+            "fullName": "Kevin Labanc",
+            "link": "/api/v1/people/8478099"
+          },
+          "jerseyNumber": "62",
+          "position": {
+            "code": "R",
+            "name": "Right Wing",
+            "type": "Forward",
+            "abbreviation": "RW"
+          }
+        },
+        {
+          "person": {
+            "id": 8478414,
+            "fullName": "Timo Meier",
+            "link": "/api/v1/people/8478414"
+          },
+          "jerseyNumber": "28",
+          "position": {
+            "code": "R",
+            "name": "Right Wing",
+            "type": "Forward",
+            "abbreviation": "RW"
+          }
+        },
+        {
+          "person": {
+            "id": 8480160,
+            "fullName": "Radim Simek",
+            "link": "/api/v1/people/8480160"
+          },
+          "jerseyNumber": "51",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
+        },
+        {
+          "person": {
+            "id": 8480780,
+            "fullName": "Lukas Radil",
+            "link": "/api/v1/people/8480780"
+          },
+          "jerseyNumber": "52",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
         }
-      ]
+      ],
+      "link": "/api/v1/teams/28/roster"
+    },
+    {
+      "id": 3,
+      "name": "Edmonton Oilers",
+      "logo": "oilers.jpg",
+      "poll": "true",
+      "count": 0,
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+      "squad": [
+        {
+          "person": {
+            "id": 8479344,
+            "fullName": "Jesse Puljujarvi",
+            "link": "/api/v1/people/8479344"
+          },
+          "jerseyNumber": "98",
+          "position": {
+            "code": "R",
+            "name": "Right Wing",
+            "type": "Forward",
+            "abbreviation": "RW"
+          }
+        },
+        {
+          "person": {
+            "id": 8470803,
+            "fullName": "Kyle Brodziak",
+            "link": "/api/v1/people/8470803"
+          },
+          "jerseyNumber": "28",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
+        },
+        {
+          "person": {
+            "id": 8471284,
+            "fullName": "Andrej Sekera",
+            "link": "/api/v1/people/8471284"
+          },
+          "jerseyNumber": "2",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
+        },
+        {
+          "person": {
+            "id": 8471729,
+            "fullName": "Kris Russell",
+            "link": "/api/v1/people/8471729"
+          },
+          "jerseyNumber": "4",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
+        },
+        {
+          "person": {
+            "id": 8473473,
+            "fullName": "Milan Lucic",
+            "link": "/api/v1/people/8473473"
+          },
+          "jerseyNumber": "27",
+          "position": {
+            "code": "L",
+            "name": "Left Wing",
+            "type": "Forward",
+            "abbreviation": "LW"
+          }
+        },
+        {
+          "person": {
+            "id": 8474040,
+            "fullName": "Sam Gagner",
+            "link": "/api/v1/people/8474040"
+          },
+          "jerseyNumber": "89",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
+        },
+        {
+          "person": {
+            "id": 8474089,
+            "fullName": "Brad Malone",
+            "link": "/api/v1/people/8474089"
+          },
+          "jerseyNumber": "24",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
+        },
+        {
+          "person": {
+            "id": 8475156,
+            "fullName": "Mikko Koskinen",
+            "link": "/api/v1/people/8475156"
+          },
+          "jerseyNumber": "19",
+          "position": {
+            "code": "G",
+            "name": "Goalie",
+            "type": "Goalie",
+            "abbreviation": "G"
+          }
+        },
+        {
+          "person": {
+            "id": 8475163,
+            "fullName": "Alex Chiasson",
+            "link": "/api/v1/people/8475163"
+          },
+          "jerseyNumber": "39",
+          "position": {
+            "code": "R",
+            "name": "Right Wing",
+            "type": "Forward",
+            "abbreviation": "RW"
+          }
+        },
+        {
+          "person": {
+            "id": 8475178,
+            "fullName": "Zack Kassian",
+            "link": "/api/v1/people/8475178"
+          },
+          "jerseyNumber": "44",
+          "position": {
+            "code": "R",
+            "name": "Right Wing",
+            "type": "Forward",
+            "abbreviation": "RW"
+          }
+        },
+        {
+          "person": {
+            "id": 8475755,
+            "fullName": "Alexander Petrovic",
+            "link": "/api/v1/people/8475755"
+          },
+          "jerseyNumber": "15",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
+        },
+        {
+          "person": {
+            "id": 8475857,
+            "fullName": "Kevin Gravel",
+            "link": "/api/v1/people/8475857"
+          },
+          "jerseyNumber": "5",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
+        },
+        {
+          "person": {
+            "id": 8476356,
+            "fullName": "Tobias Rieder",
+            "link": "/api/v1/people/8476356"
+          },
+          "jerseyNumber": "22",
+          "position": {
+            "code": "R",
+            "name": "Right Wing",
+            "type": "Forward",
+            "abbreviation": "RW"
+          }
+        },
+        {
+          "person": {
+            "id": 8476427,
+            "fullName": "Ty Rattie",
+            "link": "/api/v1/people/8476427"
+          },
+          "jerseyNumber": "8",
+          "position": {
+            "code": "R",
+            "name": "Right Wing",
+            "type": "Forward",
+            "abbreviation": "RW"
+          }
+        },
+        {
+          "person": {
+            "id": 8476454,
+            "fullName": "Ryan Nugent-Hopkins",
+            "link": "/api/v1/people/8476454"
+          },
+          "jerseyNumber": "93",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
+        },
+        {
+          "person": {
+            "id": 8476457,
+            "fullName": "Adam Larsson",
+            "link": "/api/v1/people/8476457"
+          },
+          "jerseyNumber": "6",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
+        },
+        {
+          "person": {
+            "id": 8476472,
+            "fullName": "Oscar Klefbom",
+            "link": "/api/v1/people/8476472"
+          },
+          "jerseyNumber": "77",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
+        },
+        {
+          "person": {
+            "id": 8476915,
+            "fullName": "Jujhar Khaira",
+            "link": "/api/v1/people/8476915"
+          },
+          "jerseyNumber": "16",
+          "position": {
+            "code": "L",
+            "name": "Left Wing",
+            "type": "Forward",
+            "abbreviation": "LW"
+          }
+        },
+        {
+          "person": {
+            "id": 8476932,
+            "fullName": "Anthony Stolarz",
+            "link": "/api/v1/people/8476932"
+          },
+          "jerseyNumber": "32",
+          "position": {
+            "code": "G",
+            "name": "Goalie",
+            "type": "Goalie",
+            "abbreviation": "G"
+          }
+        },
+        {
+          "person": {
+            "id": 8476988,
+            "fullName": "Matt Benning",
+            "link": "/api/v1/people/8476988"
+          },
+          "jerseyNumber": "83",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
+        },
+        {
+          "person": {
+            "id": 8477498,
+            "fullName": "Darnell Nurse",
+            "link": "/api/v1/people/8477498"
+          },
+          "jerseyNumber": "25",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
+        },
+        {
+          "person": {
+            "id": 8477529,
+            "fullName": "Colby Cave",
+            "link": "/api/v1/people/8477529"
+          },
+          "jerseyNumber": "12",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
+        },
+        {
+          "person": {
+            "id": 8477680,
+            "fullName": "Josh Currie",
+            "link": "/api/v1/people/8477680"
+          },
+          "jerseyNumber": "43",
+          "position": {
+            "code": "R",
+            "name": "Right Wing",
+            "type": "Forward",
+            "abbreviation": "RW"
+          }
+        },
+        {
+          "person": {
+            "id": 8477934,
+            "fullName": "Leon Draisaitl",
+            "link": "/api/v1/people/8477934"
+          },
+          "jerseyNumber": "29",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
+        },
+        {
+          "person": {
+            "id": 8478402,
+            "fullName": "Connor McDavid",
+            "link": "/api/v1/people/8478402"
+          },
+          "jerseyNumber": "97",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
+        },
+        {
+          "person": {
+            "id": 8479970,
+            "fullName": "Joseph Gambardella",
+            "link": "/api/v1/people/8479970"
+          },
+          "jerseyNumber": "45",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
+        }
+      ],
+      "link": "/api/v1/teams/22/roster"
     },
     {
       "id": 4,
-      "name": "Hornets",
-      "logo": "hornets.png",
+      "name": "Vegas Golden Knights",
+      "logo": "vegasknights.jpg",
       "poll": "false",
       "count": 0,
       "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
       "squad": [
         {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
+          "person": {
+            "id": 8475287,
+            "fullName": "Erik Haula",
+            "link": "/api/v1/people/8475287"
+          },
+          "jerseyNumber": "56",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
         },
         {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
+          "person": {
+            "id": 8468674,
+            "fullName": "Deryk Engelland",
+            "link": "/api/v1/people/8468674"
+          },
+          "jerseyNumber": "5",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
         },
         {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
+          "person": {
+            "id": 8470594,
+            "fullName": "Marc-Andre Fleury",
+            "link": "/api/v1/people/8470594"
+          },
+          "jerseyNumber": "29",
+          "position": {
+            "code": "G",
+            "name": "Goalie",
+            "type": "Goalie",
+            "abbreviation": "G"
+          }
         },
         {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
+          "person": {
+            "id": 8471669,
+            "fullName": "Paul Stastny",
+            "link": "/api/v1/people/8471669"
+          },
+          "jerseyNumber": "26",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
         },
         {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
+          "person": {
+            "id": 8471817,
+            "fullName": "Ryan Reaves",
+            "link": "/api/v1/people/8471817"
+          },
+          "jerseyNumber": "75",
+          "position": {
+            "code": "R",
+            "name": "Right Wing",
+            "type": "Forward",
+            "abbreviation": "RW"
+          }
         },
         {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
+          "person": {
+            "id": 8474157,
+            "fullName": "Max Pacioretty",
+            "link": "/api/v1/people/8474157"
+          },
+          "jerseyNumber": "67",
+          "position": {
+            "code": "L",
+            "name": "Left Wing",
+            "type": "Forward",
+            "abbreviation": "LW"
+          }
         },
         {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
+          "person": {
+            "id": 8474207,
+            "fullName": "Nick Holden",
+            "link": "/api/v1/people/8474207"
+          },
+          "jerseyNumber": "22",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
         },
         {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
+          "person": {
+            "id": 8475188,
+            "fullName": "Brayden McNabb",
+            "link": "/api/v1/people/8475188"
+          },
+          "jerseyNumber": "3",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
         },
         {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
+          "person": {
+            "id": 8475191,
+            "fullName": "Reilly Smith",
+            "link": "/api/v1/people/8475191"
+          },
+          "jerseyNumber": "19",
+          "position": {
+            "code": "R",
+            "name": "Right Wing",
+            "type": "Forward",
+            "abbreviation": "RW"
+          }
+        },
+        {
+          "person": {
+            "id": 8475204,
+            "fullName": "Brandon Pirri",
+            "link": "/api/v1/people/8475204"
+          },
+          "jerseyNumber": "73",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
+        },
+        {
+          "person": {
+            "id": 8475236,
+            "fullName": "Cody Eakin",
+            "link": "/api/v1/people/8475236"
+          },
+          "jerseyNumber": "21",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
+        },
+        {
+          "person": {
+            "id": 8475750,
+            "fullName": "Jon Merrill",
+            "link": "/api/v1/people/8475750"
+          },
+          "jerseyNumber": "15",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
+        },
+        {
+          "person": {
+            "id": 8475913,
+            "fullName": "Mark Stone",
+            "link": "/api/v1/people/8475913"
+          },
+          "jerseyNumber": "61",
+          "position": {
+            "code": "R",
+            "name": "Right Wing",
+            "type": "Forward",
+            "abbreviation": "RW"
+          }
+        },
+        {
+          "person": {
+            "id": 8476448,
+            "fullName": "William Karlsson",
+            "link": "/api/v1/people/8476448"
+          },
+          "jerseyNumber": "71",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
+        },
+        {
+          "person": {
+            "id": 8476525,
+            "fullName": "Colin Miller",
+            "link": "/api/v1/people/8476525"
+          },
+          "jerseyNumber": "6",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
+        },
+        {
+          "person": {
+            "id": 8476539,
+            "fullName": "Jonathan Marchessault",
+            "link": "/api/v1/people/8476539"
+          },
+          "jerseyNumber": "81",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
+        },
+        {
+          "person": {
+            "id": 8476876,
+            "fullName": "Malcolm Subban",
+            "link": "/api/v1/people/8476876"
+          },
+          "jerseyNumber": "30",
+          "position": {
+            "code": "G",
+            "name": "Goalie",
+            "type": "Goalie",
+            "abbreviation": "G"
+          }
+        },
+        {
+          "person": {
+            "id": 8477220,
+            "fullName": "Nate Schmidt",
+            "link": "/api/v1/people/8477220"
+          },
+          "jerseyNumber": "88",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
+        },
+        {
+          "person": {
+            "id": 8477447,
+            "fullName": "Shea Theodore",
+            "link": "/api/v1/people/8477447"
+          },
+          "jerseyNumber": "27",
+          "position": {
+            "code": "D",
+            "name": "Defenseman",
+            "type": "Defenseman",
+            "abbreviation": "D"
+          }
+        },
+        {
+          "person": {
+            "id": 8477458,
+            "fullName": "Valentin Zykov",
+            "link": "/api/v1/people/8477458"
+          },
+          "jerseyNumber": "7",
+          "position": {
+            "code": "L",
+            "name": "Left Wing",
+            "type": "Forward",
+            "abbreviation": "LW"
+          }
+        },
+        {
+          "person": {
+            "id": 8477478,
+            "fullName": "William Carrier",
+            "link": "/api/v1/people/8477478"
+          },
+          "jerseyNumber": "28",
+          "position": {
+            "code": "L",
+            "name": "Left Wing",
+            "type": "Forward",
+            "abbreviation": "LW"
+          }
+        },
+        {
+          "person": {
+            "id": 8477846,
+            "fullName": "Ryan Carpenter",
+            "link": "/api/v1/people/8477846"
+          },
+          "jerseyNumber": "40",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
+        },
+        {
+          "person": {
+            "id": 8477930,
+            "fullName": "Pierre-Edouard Bellemare",
+            "link": "/api/v1/people/8477930"
+          },
+          "jerseyNumber": "41",
+          "position": {
+            "code": "C",
+            "name": "Center",
+            "type": "Forward",
+            "abbreviation": "C"
+          }
+        },
+        {
+          "person": {
+            "id": 8477931,
+            "fullName": "Tomas Nosek",
+            "link": "/api/v1/people/8477931"
+          },
+          "jerseyNumber": "92",
+          "position": {
+            "code": "L",
+            "name": "Left Wing",
+            "type": "Forward",
+            "abbreviation": "LW"
+          }
+        },
+        {
+          "person": {
+            "id": 8477949,
+            "fullName": "Alex Tuch",
+            "link": "/api/v1/people/8477949"
+          },
+          "jerseyNumber": "89",
+          "position": {
+            "code": "R",
+            "name": "Right Wing",
+            "type": "Forward",
+            "abbreviation": "RW"
+          }
         }
-      ]
-    },
-    {
-      "id": 5,
-      "name": "Bulls",
-      "logo": "bulls.png",
-      "poll": "false",
-      "count": 0,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "squad": [
-        {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "name": "Cavaliers",
-      "logo": "cavaliers.png",
-      "poll": "true",
-      "count": 2365,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "squad": [
-        {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "name": "Mavericks",
-      "logo": "mavericks.png",
-      "poll": "false",
-      "count": 0,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "squad": [
-        {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "name": "Nuggets",
-      "logo": "nuggets.png",
-      "poll": "false",
-      "count": 0,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "squad": [
-        {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "name": "Pistons",
-      "logo": "pistons.png",
-      "poll": "false",
-      "count": 0,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "squad": [
-        {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "name": "Warriors",
-      "logo": "warriors.png",
-      "poll": "true",
-      "count": 2365,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "squad": [
-        {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "name": "Rockets",
-      "logo": "rockets.png",
-      "poll": "false",
-      "count": 0,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "squad": [
-        {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "name": "Pacers",
-      "logo": "pacers.png",
-      "poll": "false",
-      "count": 0,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "squad": [
-        {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "name": "Clippers",
-      "logo": "clippers.png",
-      "poll": "false",
-      "count": 0,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "squad": [
-        {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "name": "Lakers",
-      "logo": "lakers.png",
-      "poll": "false",
-      "count": 0,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "squad": [
-        {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "name": "Grizzlies",
-      "logo": "grizzlies.png",
-      "poll": "false",
-      "count": 0,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "squad": [
-        {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "name": "Heat",
-      "logo": "heat.png",
-      "poll": "false",
-      "count": 0,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "squad": [
-        {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "name": "Bucks",
-      "logo": "bucks.png",
-      "poll": "false",
-      "count": 0,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "squad": [
-        {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "name": "Timberwolves",
-      "logo": "timberwolves.png",
-      "poll": "false",
-      "count": 0,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "squad": [
-        {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
-        }
-      ]
-    },
-    {
-      "id": 19,
-      "name": "Pelicans",
-      "logo": "pelicans.png",
-      "poll": "false",
-      "count": 0,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "squad": [
-        {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "name": "knicks",
-      "logo": "knicks.png",
-      "poll": "true",
-      "count": 13,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "squad": [
-        {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
-        }
-      ]
-    },
-    {
-      "id": 21,
-      "name": "Thunder",
-      "logo": "thunder.png",
-      "poll": "false",
-      "count": 0,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "squad": [
-        {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
-        }
-      ]
-    },
-    {
-      "id": 22,
-      "name": "Magic",
-      "logo": "magic.png",
-      "poll": "false",
-      "count": 0,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "squad": [
-        {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
-        }
-      ]
-    },
-    {
-      "id": 23,
-      "name": "76ers",
-      "logo": "76ers.png",
-      "poll": "false",
-      "count": 0,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "squad": [
-        {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
-        }
-      ]
-    },
-    {
-      "id": 24,
-      "name": "Spurs",
-      "logo": "spurs.png",
-      "poll": "false",
-      "count": 0,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "squad": [
-        {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
-        }
-      ]
-    },
-    {
-      "id": 25,
-      "name": "Suns",
-      "logo": "suns.png",
-      "poll": "false",
-      "count": 0,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "squad": [
-        {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
-        }
-      ]
-    },
-    {
-      "id": 26,
-      "name": "Kings",
-      "logo": "kings.png",
-      "poll": "false",
-      "count": 0,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "squad": [
-        {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
-        }
-      ]
-    },
-    {
-      "id": 27,
-      "name": "Raptors",
-      "logo": "raptors.png",
-      "poll": "false",
-      "count": 0,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "squad": [
-        {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
-        }
-      ]
-    },
-    {
-      "id": 28,
-      "name": "Jazz",
-      "logo": "jazz.png",
-      "poll": "false",
-      "count": 0,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "squad": [
-        {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
-        }
-      ]
-    },
-    {
-      "id": 29,
-      "name": "Blazers",
-      "logo": "blazers.png",
-      "poll": "false",
-      "count": 0,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "squad": [
-        {
-          "name": "Ron Howard",
-          "number": 23,
-          "PPG": 31.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Justin Cane",
-          "number": 4,
-          "PPG": 5.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Roberto Roboto",
-          "number": 21,
-          "PPG": 1.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Nick Jones",
-          "number": 10,
-          "PPG": 7.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "James Cotton",
-          "number": 5,
-          "PPG": 10,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Michael Jackson",
-          "number": 7,
-          "PPG": 15,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "David Parser",
-          "number": 9,
-          "PPG": 6.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Montgomery Burn",
-          "number": 12,
-          "PPG": 0.5,
-          "APG": 5,
-          "RPG": 14
-        },
-        {
-          "name": "Usuain Osom",
-          "number": 11,
-          "PPG": 1,
-          "APG": 5,
-          "RPG": 14
-        }
-      ]
+      ],
+      "link": "/api/v1/teams/54/roster"
     }
   ]
 }
