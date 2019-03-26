@@ -6,7 +6,7 @@ function Header() {
     <header>
       <div className="flexbox-container">
         <Link to="/" className="logo">
-          <span><img src="https://i.ibb.co/vmzrGQB/nhllogo.png" alt=""/></span>
+          <span><img src="https://i.ibb.co/0qNzZxm/nhllogo2.png" alt=""/></span>
           <span className="logo_highlights">HIGHLIGHTS</span>
         
         </Link>
