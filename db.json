@@ -3,21 +3,21 @@
     "slider": [
       {
         "id": "1",
-        "cover": "cover1.jpg",
-        "topic": "Alex Ovechkin",
-        "title": "Top player of the week"
-      },
-      {
-        "id": "2",
         "cover": "cover2.jpg",
         "topic": "Washington Capitals",
         "title": "Another win"
       },
       {
-        "id": "3",
+        "id": "2",
         "cover": "cover3.jpg",
         "topic": "NHL RECORDS",
         "title": "Best games in history"
+      },
+      {
+        "id": "3",
+        "cover": "cover1.jpg",
+        "topic": "Alex Ovechkin",
+        "title": "Top player of the week"
       }
     ],
     "blocks": [
@@ -97,8 +97,8 @@
       "name": "Minnesota Wild",
       "logo": "minnesotawild.png",
       "poll": "true",
-      "count": 21,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+      "count": 27,
+      "description": "The Minnesota Wild are a professional ice hockey team based in Saint Paul, Minnesota. They are members of the Central Division of the Western Conference of the National Hockey League (NHL). The Wild are the only Minneapolis–Saint Paul area major professional sports league franchise to play in Saint Paul until Minnesota United FC move to their new home, Allianz Field, in 2019. The other three teams play in Minneapolis.",
       "squad": [
         {
           "person": {
@@ -457,8 +457,8 @@
       "name": "San Jose Sharks",
       "logo": "sanjosesharks.png",
       "poll": "true",
-      "count": 3,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+      "count": 4,
+      "description": "The San Jose Sharks are a professional ice hockey team based in San Jose, California. They are members of the Pacific Division of the Western Conference of the National Hockey League (NHL). The franchise is owned by San Jose Sports & Entertainment Enterprises. Beginning play in the 1991–92 season, the Sharks initially played their home games at the Cow Palace, before they moved to their present home, the SAP Center at San Jose in 1993. The SAP Center is known locally as the Shark Tank",
       "squad": [
         {
           "person": {
@@ -804,8 +804,8 @@
       "name": "Edmonton Oilers",
       "logo": "oilers.png",
       "poll": "true",
-      "count": 25,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+      "count": 26,
+      "description": "The Edmonton Oilers are a professional ice hockey team based in Edmonton, Alberta. They are members of the Pacific Division of the Western Conference of the National Hockey League (NHL).",
       "squad": [
         {
           "person": {
@@ -1180,7 +1180,7 @@
       "logo": "vegasknights.png",
       "poll": "false",
       "count": 0,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+      "description": "The Vegas Golden Knights are a professional ice hockey team based in the Las Vegas metropolitan area that began play in the 2017–18 NHL season. They are members of the Pacific Division of the Western Conference of the National Hockey League (NHL). The team is owned by Black Knight Sports & Entertainment, a consortium led by Bill Foley and the Maloof family. The team plays its home games at T-Mobile Arena on the Las Vegas Strip in Paradise, Nevada.",
       "squad": [
         {
           "person": {

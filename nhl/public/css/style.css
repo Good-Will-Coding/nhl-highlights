@@ -55,7 +55,7 @@ header,
 footer {
   background: #fff;
   align-items: center;
-  padding: 10px;
+  padding: .7rem;
   font-family: "Fjalla One", sans-serif;
 }
 
@@ -65,7 +65,7 @@ footer .logo {
 }
 
 header .logo_highlights {
-    font-size: 4rem;
+    font-size: 1rem;
     color: black;
 }
 
@@ -90,16 +90,16 @@ footer {
 .item-slider {
   height: 700px;
   background-size: cover !important;
-  background-position: center center !important;
+  background-position: top center !important;
   position: relative;
   font-family: "Fjalla One", sans-serif;
 }
 
 .item-slider .caption {
-  color: #fff;
+  color: #fff;;
   position: absolute;
   right: 0;
-  padding: 1.25rem;
+  padding: 2rem;
   text-align: right;
   width: 20rem;
   text-transform: uppercase;
@@ -278,7 +278,7 @@ footer {
 }
 
 .teams_container .team_item img {
-    width: 10%;
+    width: 12rem;
 }
 
 .teams_component {
@@ -306,4 +306,65 @@ footer {
     display: flex;
     flex-wrap: wrap;
 
+}
+
+
+/* Team Roster  */
+
+.team_data_wrapper .squad .item img {
+    width: 30%;
+    display: block;
+    margin: 0 auto;
+}
+
+.team_data_wrapper {
+    display: flex;
+}
+
+.team_data_wrapper .left {
+    box-sizing: border-box;
+    padding: .7rem 1.4rem;
+}
+
+.team_data_wrapper .left img {
+    width: 9.5rem;
+}
+
+.team_data_wrapper .right {
+    flex-grow: 1;
+    box-sizing: border-box;
+    border-left: 1px solid #b9b9b9;
+    padding: 0 1.4rem;
+}
+
+.team_data_wrapper .right h1 {
+    color: #3d3b3b;
+}
+
+.team_data_wrapper .squad {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.team_data_wrapper .squad .item {
+    position: relative;
+    width: 25%;
+    overflow: hidden;
+    padding: 1.4rem;
+    box-sizing: border-box;
+}
+
+.team_data_wrapper .squad .item h4 {
+    text-align: center;
+    color: #006bb6;
+}
+
+.team_data_wrapper .squad .item .details {
+    font-size: .8rem;
+    padding: .25rem 0;
+}
+
+.team_data_wrapper .squad .item .details span {
+    font-weight: 600;
 }

@@ -52,8 +52,7 @@ const Subscriptions = () => {
         </form>
       </div>
       <small>
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Necessitatibus
-        quaerat tempore sequi natus quidem corporis.
+      Enjoy unlimited access on NHL Highlights and in the app. Access latest news and gossip of your favorite teams in the league.
       </small>
     </div>
   );
