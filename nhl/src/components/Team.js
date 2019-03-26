@@ -3,7 +3,7 @@ import axios from "axios";
 
 function Team(props) {
   const [data, setData] = useState([]);
-  const URL_TEAM = "http://localhost:3004/teams";
+  const URL_TEAM = "https://frozen-journey-27456.herokuapp.com/teams";
 
   useEffect(() => {
     axios.get(`${URL_TEAM}?name=${props.match.params.id}`).then(res => {

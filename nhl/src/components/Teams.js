@@ -7,7 +7,7 @@ function Teams() {
   const [teams, setTeams] = useState([]);
   const [filterTeams, setFilterTeams] = useState([]);
   const [keyword, setKeyword] = useState("");
-  const URL_TEAMS = "http://localhost:3004/teams";
+  const URL_TEAMS = "https://frozen-journey-27456.herokuapp.com/teams";
 
   useEffect(() => {
     getTeams();

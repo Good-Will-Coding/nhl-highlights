@@ -6,7 +6,7 @@ const Poll = () => {
   const [voted, setVoted] = useState(false);
   const [votedAlert, setVotedAlert] = useState(false);
 
-  const URL_TEAMS = "http://localhost:3004/teams";
+  const URL_TEAMS = "https://frozen-journey-27456.herokuapp.com/teams";
 
   useEffect(() => {
     getPoll();

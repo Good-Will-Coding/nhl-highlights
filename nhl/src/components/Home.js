@@ -4,7 +4,7 @@ import Subscriptions from './Subscriptions';
 import ImageGrid from './ImageGrid';
 import Poll from './Poll';
 import axios from "axios";
-const URL_HOME = "http://localhost:3004/home";
+const URL_HOME = "https://frozen-journey-27456.herokuapp.com/home";
 
 function Home() {
   const [home, setHome] = useState("");
